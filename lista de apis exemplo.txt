@@ -1,0 +1,19 @@
+// lista de APIs - TODO colocar em uma estrutura separada
+// const apis = [
+//     { url: "https://reqres.in/api/users", method: "GET", repeat: 5 },
+//     {
+//         url: "https://reqres.in/api/users", method: "POST", payload: {
+//             "name": "John Doe",
+//             "job": "Developer"
+//         }, repeat: 5
+//     },
+//     { url: "https://jsonplaceholder.typicode.com/posts", method: "GET", repeat: 5 },
+//     { url: "https://jsonplaceholder.typicode.com/comments", method: "GET", repeat: 5 },
+//     { url: "https://jsonplaceholder.typicode.com/albums", method: "GET", repeat: 5 },
+//     { url: "https://jsonplaceholder.typicode.com/photos", method: "GET", repeat: 5 },
+//     { url: "https://jsonplaceholder.typicode.com/todos", method: "GET", repeat: 5 },
+//     { url: "https://jsonplaceholder.typicode.com/users", method: "GET", repeat: 5 },
+//     { url: "https://dog.ceo/api/breeds/image/random", method: "GET", repeat: 5 },
+//     { url: "https://catfact.ninja/fact", method: "GET", repeat: 5 },
+//     { url: "https://api.agify.io?name=michael", method: "GET", repeat: 5 },
+// ];
